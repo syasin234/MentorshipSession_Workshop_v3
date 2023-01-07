@@ -1262,13 +1262,13 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":48,
                  "id":37,
-                 "name":"SynergeticRoom",
+                 "name":"Room11",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"SynergeticRoom"
+                         "value":"Room11"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1276,14 +1276,9 @@
                          "value":"speaker"
                         }, 
                         {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Synergetic Room"
+                         "value":"Room11"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1342,13 +1337,13 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":48,
                  "id":38,
-                 "name":"Tatooine",
+                 "name":"Room12",
                  "opacity":1,
                  "properties":[
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"Tatooine"
+                         "value":"Room12"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1356,14 +1351,9 @@
                          "value":"speaker"
                         }, 
                         {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Tatooine"
+                         "value":"Room12"
                         }],
                  "type":"tilelayer",
                  "visible":true,
