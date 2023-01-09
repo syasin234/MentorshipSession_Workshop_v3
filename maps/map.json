@@ -321,11 +321,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"mainroom_doorleft_variable"
-                }, 
-                {
-                 "name":"zone",
-                 "type":"string",
-                 "value":"mainroom_doorleft_variable"
                 }],
          "type":"tilelayer",
          "visible":true,
