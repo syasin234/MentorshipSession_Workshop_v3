@@ -1853,7 +1853,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"",
+                 "class":"variable",
                  "height":0,
                  "id":18,
                  "name":"mainroom_doorleft_variable",
