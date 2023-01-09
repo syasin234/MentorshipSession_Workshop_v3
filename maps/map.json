@@ -318,6 +318,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"code",
+                 "type":"string",
+                 "value":"337"
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"mainroom_doorleft_variable"
@@ -1837,7 +1842,7 @@
                  "value":"exitSouthConfig"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":64,
          "x":0,
          "y":0
