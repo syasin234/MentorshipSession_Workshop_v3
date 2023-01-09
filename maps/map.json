@@ -778,12 +778,17 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"lead"
                         }, 
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Room5"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":false
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -853,12 +858,17 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"lead"
                         }, 
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Room6"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":false
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -928,12 +938,17 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"lead"
                         }, 
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Room7"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":false
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1003,12 +1018,17 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"lead"
                         }, 
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Room8"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":false
                         }],
                  "type":"tilelayer",
                  "visible":true,
