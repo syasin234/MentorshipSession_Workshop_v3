@@ -398,12 +398,17 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"lead"
                         }, 
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"MainLectureHall"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":false
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1298,7 +1303,7 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"speaker"
+                         "value":"lead"
                         }, 
                         {
                          "name":"meetingRoomLabel",
