@@ -2788,7 +2788,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"src\/main.ts\\n\nsrc\/scripting-api-extra"
+         "value":"src\/main.ts"
         }, 
         {
          "name":"tutorial",
