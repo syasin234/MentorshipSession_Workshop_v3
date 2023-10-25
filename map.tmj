@@ -5,11 +5,6 @@
         {
          "height":32,
          "width":32
-        },
-     "export":
-        {
-         "format":"json",
-         "target":"map.json"
         }
     },
  "height":48,
@@ -2483,7 +2478,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"variable",
                  "height":0,
                  "id":19,
                  "name":"door5_variable",
@@ -2515,13 +2509,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":470,
                  "y":310
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":20,
                  "name":"door6_variable",
@@ -2553,13 +2547,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":880,
                  "y":308
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":21,
                  "name":"door7_variable",
@@ -2591,13 +2585,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1104,
                  "y":318
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":22,
                  "name":"door8_variable",
@@ -2629,13 +2623,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1550,
                  "y":316
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":24,
                  "name":"door1_variable",
@@ -2667,13 +2661,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":368,
                  "y":1364
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":25,
                  "name":"door2_variable",
@@ -2705,13 +2699,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":370,
                  "y":1010
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":26,
                  "name":"door3_variable",
@@ -2743,13 +2737,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":370,
                  "y":634
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":27,
                  "name":"door10_variable",
@@ -2781,13 +2775,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1680,
                  "y":602
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":28,
                  "name":"door11_variable",
@@ -2819,13 +2813,13 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1680,
                  "y":1016
                 }, 
                 {
-                 "class":"variable",
                  "height":0,
                  "id":29,
                  "name":"door12_variable",
@@ -2857,6 +2851,7 @@
                          "value":false
                         }],
                  "rotation":0,
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":1680,
@@ -4265,13 +4260,13 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.9.2",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/tilesets\/modern_generic.png",
+         "image":"tilesets\/modern_generic.png",
          "imageheight":1920,
          "imagewidth":512,
          "margin":0,
@@ -4294,7 +4289,7 @@
         {
          "columns":40,
          "firstgid":961,
-         "image":"..\/tilesets\/modern_walls_and_floors.png",
+         "image":"tilesets\/modern_walls_and_floors.png",
          "imageheight":1856,
          "imagewidth":1280,
          "margin":0,
@@ -4317,7 +4312,7 @@
         {
          "columns":6,
          "firstgid":3281,
-         "image":"..\/tilesets\/special-zones.png",
+         "image":"tilesets\/special-zones.png",
          "imageheight":512,
          "imagewidth":192,
          "margin":0,
@@ -4340,7 +4335,7 @@
         {
          "columns":16,
          "firstgid":3377,
-         "image":"..\/tilesets\/modern_kitchen.png",
+         "image":"tilesets\/modern_kitchen.png",
          "imageheight":1472,
          "imagewidth":512,
          "margin":0,
@@ -4353,7 +4348,7 @@
         {
          "columns":16,
          "firstgid":4113,
-         "image":"..\/tilesets\/modern_livingroom.png",
+         "image":"tilesets\/modern_livingroom.png",
          "imageheight":864,
          "imagewidth":512,
          "margin":0,
@@ -4366,7 +4361,7 @@
         {
          "columns":22,
          "firstgid":4545,
-         "image":"..\/tilesets\/modern_office.png",
+         "image":"tilesets\/modern_office.png",
          "imageheight":768,
          "imagewidth":704,
          "margin":0,
@@ -4379,7 +4374,7 @@
         {
          "columns":4,
          "firstgid":5073,
-         "image":"..\/tilesets\/sofas_chairs.png",
+         "image":"tilesets\/sofas_chairs.png",
          "imageheight":160,
          "imagewidth":128,
          "margin":0,
@@ -4392,7 +4387,7 @@
         {
          "columns":16,
          "firstgid":5093,
-         "image":"..\/tilesets\/modern_chill.png",
+         "image":"tilesets\/modern_chill.png",
          "imageheight":1568,
          "imagewidth":512,
          "margin":0,
@@ -4405,7 +4400,7 @@
         {
          "columns":18,
          "firstgid":5877,
-         "image":"..\/tilesets\/LimeZu_24_User_Interface_32x32_edited.png",
+         "image":"tilesets\/LimeZu_24_User_Interface_32x32_edited.png",
          "imageheight":448,
          "imagewidth":576,
          "margin":0,
@@ -4418,7 +4413,7 @@
         {
          "columns":5,
          "firstgid":6129,
-         "image":"..\/tilesets\/posters.png",
+         "image":"tilesets\/posters.png",
          "imageheight":704,
          "imagewidth":160,
          "margin":0,
@@ -4431,7 +4426,7 @@
         {
          "columns":13,
          "firstgid":6239,
-         "image":"..\/tilesets\/WA_User_Interface.png",
+         "image":"tilesets\/WA_User_Interface.png",
          "imageheight":672,
          "imagewidth":416,
          "margin":0,
@@ -4444,7 +4439,7 @@
         {
          "columns":5,
          "firstgid":6512,
-         "image":"..\/tilesets\/animated_door_big_5_32x32.png",
+         "image":"tilesets\/animated_door_big_5_32x32.png",
          "imageheight":96,
          "imagewidth":160,
          "margin":0,
@@ -4475,6 +4470,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.10",
  "width":64
 }
