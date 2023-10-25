@@ -4252,7 +4252,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"\/src\/main.ts"
+         "value":"\/src\/index.ts"
         }, 
         {
          "name":"tutorial",
